@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey 👋, My name is Theo
+
+## I am a Software Engineer who loves playing card games 
+
+## Tools and Technologies 
+
 
 <!--
 **TheofanisNeofotistos/TheofanisNeofotistos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
