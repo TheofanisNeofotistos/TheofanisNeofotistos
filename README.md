@@ -10,6 +10,12 @@ Before becoming a developer, I had worked in Construction where I collaborated w
  🚀 I’m currently working on <a href="https://socialq.onrender.com/">SocialQ</a></br>
  🏆 Interests: Card games, Crossfit, Boxing and Traveling!
 
+ ### Get in touch!
+
+ <a href="https://www.linkedin.com/in/theofanis-neofotistos-483b33254/">Linkedin</a> | 
+ <a href="mailto:neofotistostheofanis@gmail.com">neofotistostheofanis@gmail.com</a>
+
+
 ### Tools and Technologies 
 
 <div>
