@@ -8,7 +8,7 @@ Before becoming a developer, I had worked in Construction where I collaborated w
 
  👨🏻‍💻 Software Engineer </br>
  🚀 I’m currently working on <a href="https://socialq.onrender.com/">SocialQ</a></br>
- ✨ Interests: Card games, Crossfit, Boxing and Traveling!
+ 🏆 Interests: Card games, Crossfit, Boxing and Traveling!
 
 ### Tools and Technologies 
 
