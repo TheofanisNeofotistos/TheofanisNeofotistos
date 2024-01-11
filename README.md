@@ -1,8 +1,10 @@
-### Hey 👋, My name is Theo
+## Hey 👋, My name is Theo
 
-## I am a Software Engineer who loves playing card games 
+### I am a Software Engineer who loves playing card games 
 
-## Tools and Technologies 
+Before becoming a developer, I had worked in Construction where I collaborated with structural engineers , ownership and prospecting clients in order to provide job estimates with potential clients. When not in meetings or having to prepare an estimate, I love playing card games. That is were I discovered that I enjoyed breaking down a problem and developing a solution to get over the obstacles at hand. This sparked an interest in learning about coding and implementing that same thought process into applications that could help achieve others goals as well as my own. I decided to commit to App Academy, a rigorous full-stack software development bootcamp.
+
+### Tools and Technologies 
 
 
 <!--
